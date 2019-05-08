@@ -1,0 +1,9 @@
+{
+    "name": "koolreport/statistics",
+    "version":"1.0.0",
+    "description": "Provide various statistical measures for data",
+    "keywords": ["PHP","php reprting tools","php reporting framework","mysql reporting tools","statistics","min", "max", "mean", "mode", "median", "lowerQuartile", "upperQuartile", "meanDeviation", "stdDeviation", "percentile"],
+    "homepage": "https://www.koolreport.com",
+    "type": "library",
+    "license": "https://www.koolreport.com/license#regular-license"
+}
