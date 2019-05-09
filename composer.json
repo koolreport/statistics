@@ -5,5 +5,6 @@
     "keywords": ["PHP","php reprting tools","php reporting framework","mysql reporting tools","statistics","min", "max", "mean", "mode", "median", "lowerQuartile", "upperQuartile", "meanDeviation", "stdDeviation", "percentile"],
     "homepage": "https://www.koolreport.com",
     "type": "library",
+    "license": "MIT",
     "license": "https://www.koolreport.com/license#regular-license"
 }
