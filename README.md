@@ -4,10 +4,23 @@ Talking about data, we also talk about statistics because we learn about data th
 
 # Installation
 
-1. Download and unzip the zipped file.
-2. Copy the folder `statistics` into `koolreport/packages` folder
-3. Reference to the Statistics process and the utility StatisticsReader by the classname `\koolreport\statistics\Statistics` and `\koolreport\statistics\StatisticsReader`
+### By downloading .zip file
 
+1. [Download](https://www.koolreport.com/packages/statistics)
+2. Unzip the zip file
+3. Copy the folder `statistics` into `koolreport` folder so that look like below
+
+```bash
+koolreport
+├── core
+├── statistics
+```
+
+### By composer
+
+```
+composer require koolreport\statistics
+```
 
 # Documentation
 
