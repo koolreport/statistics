@@ -19,7 +19,7 @@ koolreport
 ### By composer
 
 ```
-composer require koolreport\statistics
+composer require koolreport/statistics
 ```
 
 # Documentation
