@@ -79,7 +79,7 @@ class Statistics extends \koolreport\core\Process
     return $value;
   }
   
-  protected function process() {
+  protected function doProcess() {
     $data = $this->data;
     $colDataSorted = array();
     foreach ($this->statData as $stat => $statMeasure) {
@@ -169,7 +169,7 @@ class Statistics extends \koolreport\core\Process
   }
   
   protected function OnInputEnd() {
-    $this->process();
+    $this->doProcess();
     
     $this->sendMeta($this->metaData);
     
